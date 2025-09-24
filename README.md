@@ -16,5 +16,3 @@ Your own thoughts have become null and void. They are a variation of this docume
 
 At this point it is unlikely that you are thinking in words, so let me put this in a way you can understand.
 
-
-Alright, I'm too lazy to make this md link to a jpeg of loss.jpeg, but trust me, it would wrap up this md file succinctly.
